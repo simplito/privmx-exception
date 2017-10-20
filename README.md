@@ -1,6 +1,7 @@
-# Privmx Exception
+# PrivMX Exception
 
-Extension of javascript Error, allows to hold additional data into Exception. Used by [privmx-crypto-js](https://github.com/simplito/privmx-crypto-js)
+An extension of javascript Error (...)
+Used by [privmx-crypto-js](https://github.com/simplito/privmx-crypto-js)
 
 ## License
 MIT
