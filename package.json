@@ -1,0 +1,16 @@
+{
+  "name": "privmx-exception",
+  "description": "JS exception",
+  "license": "MIT",
+  "homepage": "https://github.com/simplito/privmx-exception",
+  "keywords": [
+    "exception"
+  ],
+  "author": {
+    "name": "Simplito Team",
+    "url": "https://simplito.com"
+  },
+  "version": "1.0.0",
+  "typings": "./typings.d.ts",
+  "main": "index.js"
+}
